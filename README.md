@@ -15,20 +15,20 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: Sliding Window
 
-- [ ] https://leetcode.com/problems/maximum-subarray/  (Blind)
+- [X] https://leetcode.com/problems/maximum-subarray/  (Blind)
 - [ ] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [ ] https://leetcode.com/problems/fruit-into-baskets/
-- [ ] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
-- [ ] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
+- [X] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
+- [X] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
 - [ ] https://leetcode.com/problems/max-consecutive-ones-iii/
 - [ ] https://leetcode.com/problems/permutation-in-string/
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string/
-- [ ] https://leetcode.com/problems/minimum-window-substring/ (Blind)
+- [X] https://leetcode.com/problems/minimum-window-substring/ (Blind)
 - [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 ## Pattern: Islands(Matrix Traversal)
-- [ ] https://leetcode.com/problems/number-of-islands/ (Blind)
+- [X] https://leetcode.com/problems/number-of-islands/ (Blind)
 - [ ] https://leetcode.com/problems/max-area-of-island/
 - [ ] https://leetcode.com/problems/flood-fill/
 - [ ] https://leetcode.com/problems/number-of-closed-islands/
@@ -39,7 +39,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 - [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - [ ] https://leetcode.com/problems/squares-of-a-sorted-array/
-- [ ] https://leetcode.com/problems/3sum/ (Blind)
+- [X] https://leetcode.com/problems/3sum/ (Blind)
 - [ ] https://leetcode.com/problems/3sum-closest/
 - [ ] https://leetcode.com/problems/3sum-smaller/
 - [ ] https://leetcode.com/problems/subarray-product-less-than-k/
@@ -49,17 +49,17 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 ## Pattern: Fast & Slow pointers
-- [ ] https://leetcode.com/problems/linked-list-cycle/ (Blind)
+- [X] https://leetcode.com/problems/linked-list-cycle/ (Blind)
 - [ ] https://leetcode.com/problems/linked-list-cycle-ii/
 - [ ] https://leetcode.com/problems/happy-number/
 - [ ] https://leetcode.com/problems/middle-of-the-linked-list/
 - [ ] https://leetcode.com/problems/palindrome-linked-list/
-- [ ] https://leetcode.com/problems/reorder-list/ (Blind)
+- [X] https://leetcode.com/problems/reorder-list/ (Blind)
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
 ## Pattern: Merge Intervals
-- [ ] https://leetcode.com/problems/merge-intervals/ (Blind)
-- [ ] https://leetcode.com/problems/insert-interval/ (Blind)
+- [X] https://leetcode.com/problems/merge-intervals/ (Blind)
+- [X] https://leetcode.com/problems/insert-interval/ (Blind)
 - [ ] https://leetcode.com/problems/interval-list-intersections/
 - [ ] https://leetcode.com/problems/meeting-rooms/ (Blind and Premium)
 - [ ] https://leetcode.com/problems/meeting-rooms-ii/ (Blind and Premium)
@@ -69,7 +69,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 ## Pattern: Cyclic Sort
 
 - Couldn't find Cyclic Sort
-- [ ] https://leetcode.com/problems/missing-number/ (Blind)
+- [X] https://leetcode.com/problems/missing-number/ (Blind)
 - [ ] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 - [ ] https://leetcode.com/problems/find-the-duplicate-number/
 - [ ] https://leetcode.com/problems/find-all-duplicates-in-an-array/
@@ -78,19 +78,19 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/kth-missing-positive-number/
 
 ## Pattern: In-place Reversal of a LinkedList
-- [ ] https://leetcode.com/problems/reverse-linked-list/ (Blind)
+- [X] https://leetcode.com/problems/reverse-linked-list/ (Blind)
 - [ ] https://leetcode.com/problems/reverse-linked-list-ii/
 - [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
 - Alternation to previous question
 - [ ] https://leetcode.com/problems/rotate-list/
 
 ## Pattern: Tree Breadth First Search
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
+- [X] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
 - [ ] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 - [ ] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - [ ] https://leetcode.com/problems/average-of-levels-in-binary-tree/
 - [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree/
-- [ ] https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Not grokk but Blind)
+- [X] https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Not grokk but Blind)
 - [ ] https://leetcode.com/problems/inorder-successor-in-bst/  (In order instead of level order)
 - [ ] https://leetcode.com/problems/populating-next-right-pointers-in-each-node/  
 - Alternation to previous question
@@ -103,17 +103,17 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
 - [ ] https://leetcode.com/problems/path-sum-iii/
 - [ ] https://leetcode.com/problems/diameter-of-binary-tree/
-- [ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
+- [X] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
 
 ## Pattern: Two Heaps
-- [ ] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
+- [X] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
 - [ ] https://leetcode.com/problems/sliding-window-median/
 - [ ] https://leetcode.com/problems/ipo/
 - [ ] https://leetcode.com/problems/find-right-interval/
 
 ## Pattern: Subsets
-- [ ] https://leetcode.com/problems/subsets/
-- [ ] https://leetcode.com/problems/subsets-ii/
+- [X] https://leetcode.com/problems/subsets/
+- [X] https://leetcode.com/problems/subsets-ii/
 - [ ] https://leetcode.com/problems/permutations/
 - [ ] https://leetcode.com/problems/letter-case-permutation/
 - [ ] https://leetcode.com/problems/generate-parentheses/
@@ -123,7 +123,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/unique-binary-search-trees/
 
 ## Pattern: Modified Binary Search
-- [ ] https://leetcode.com/problems/binary-search/ (Blind)
+- [X] https://leetcode.com/problems/binary-search/ (Blind)
 - Couldn't find Ceiling of a Number
 - [ ] https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 - [ ] https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
@@ -131,8 +131,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/minimum-absolute-difference/ (Close)
 - Couldn't find Bitonic Array Maximum
 - Couldn't find Search Bitonic Array 
-- [ ] https://leetcode.com/problems/search-in-rotated-sorted-array/ (Blind)
-- [ ] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Blind)
+- [X] https://leetcode.com/problems/search-in-rotated-sorted-array/ (Blind)
+- [X] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Blind)
 
 ## Pattern: Bitwise XOR
 - [ ] https://leetcode.com/problems/single-number/
